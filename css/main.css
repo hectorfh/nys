@@ -1,0 +1,16 @@
+#game-div {
+    background-color: blue;
+    width: 800px;
+    height: 600px;
+    position: relative;
+			 
+}
+
+.horse-man {
+    position: absolute;
+    left: 110px;
+    top: 110px;
+    width: 110px;
+    height: 110px;
+    background-image: url("../img/NicePng_crusader-png_2044485.png");
+}
